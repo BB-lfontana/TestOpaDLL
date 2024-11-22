@@ -1,0 +1,6 @@
+.vs/
+bin/Debug/TestOpaDLL.exe.config
+obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+obj/Debug/TestOpaDLL.csproj.FileListAbsolute.txt
+obj/Debug/TestOpaDLL.FormMain.resources
+obj/Debug/TestOpaDLL.Properties.Resources.resources
